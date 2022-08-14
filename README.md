@@ -279,8 +279,3 @@ DeckPublished `app/Notifications/DeckPublished.php`
 - More social engagement with "liking" decks and filtering them by popularity
 
 - Easier installation with Docker
-
-## 🔴 Issues
-
-- If you have seen any bugs please report it by making an [issue](https://github.com/aleksandertabor/flashcards/issues).
-- You can PM me directly at [Facebook](https://www.facebook.com/aleksander.tabor.79), [Twitter](https://twitter.com/AlekTabor)
